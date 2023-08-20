@@ -4,4 +4,12 @@ I am a good Boy. I love to play Cricket. and moreover, I love to play CHESS and 
 
 
 see this Cute Image of My Cat 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Beauty.]([https://unsplash.com/photos/mccesgxmTYQ])
+
+
+See This Git Introduction Code Example
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
