@@ -13,3 +13,9 @@ See This Git Introduction Code Example
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+See My Daily Tasks List
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
